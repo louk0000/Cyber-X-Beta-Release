@@ -36,15 +36,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['84876916048'] //ur owner number
+global.vcardowner = ['212609493719'] //ur owner number
 global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['84876916048']
-global.ownertag = '84876916048' //ur tag number
+global.owner = ['212609493719']
+global.ownertag = '212609493719' //ur tag number
 global.botname = 'LO9MANE X MARRAKECH EDITION' //ur bot name
 global.ig = "https://youtu.be/kIwbcOHeAbs" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/kIwbcOHeAbs" //ur website to be displayed
@@ -54,10 +54,10 @@ global.reactmoji = "😻" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
 global.packname = "حنا لمࢪاڪشين مهيبين عليڪم😻" //ur sticker watermark packname
 global.author = "لقمان لمࢪاڪشي😻" //ur sticker watermark author
-global.aliveimg ="https://telegra.ph/file/f9d521b848882cc558ce9.jpg"
-global.allmenuimg ="https://telegra.ph/file/f9d521b848882cc558ce9.jpg"
-global.welcomeimg= "https://telegra.ph/file/f9d521b848882cc558ce9.jpg"
-global.gbyeimg = "https://telegra.ph/file/f9d521b848882cc558ce9.jpg"
+global.aliveimg ="https://telegra.ph/file/20c591ae129d2ab3a1bc9.jpg"
+global.allmenuimg ="https://telegra.ph/file/20c591ae129d2ab3a1bc9.jpg"
+global.welcomeimg= "https://telegra.ph/file/20c591ae129d2ab3a1bc9.jpg"
+global.gbyeimg = "https://telegra.ph/file/20c591ae129d2ab3a1bc9.jpg"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
